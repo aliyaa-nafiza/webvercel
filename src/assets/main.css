@@ -1,0 +1,61 @@
+@import './base.css';
+body{
+  font-family: "Arial",sans-serif;
+  background-color: rgb(145, 0, 0);
+}
+.main {
+  text-align: center;
+  padding: 20px;
+  background:linear-gradient (bisque)
+}
+.btn-grad {
+  background-image: linear-gradient(to right, #f3d9dc 0%, #e1eff7 51%, #f0c3e6 100%);
+}
+
+.btn-grad {
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: rgb(165, 230, 255);
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  display: inline-block;
+  outline: none;
+  border: none;
+}
+
+.btn-grad:hover {
+  background-position: right center;
+  color: rgb(145, 0, 0);
+  text-decoration: none;
+}
+
+.cord{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  gap:10px;
+}
+.yas{
+  text-align: center;
+  padding: 20px;
+  background: rgb(238, 212, 238);
+  border-radius: 10px;
+  box-shadow: #6d0101;
+  margin-top: 20px;
+}
+.se{
+  text-align: center;
+  padding: 20px;
+  background: rgb(143, 1, 1);
+  border-radius: 10px;
+  box-shadow: rgb(224, 170, 103);
+  margin-top: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
