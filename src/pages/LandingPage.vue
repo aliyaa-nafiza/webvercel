@@ -14,7 +14,7 @@
   <div class="landing-wrapper">
     <!-- Navigation Bar -->
     <header class="navbar">
-      <div class="brand-logo">BUNGA ABADI— Onlineshop</div>
+      <div class="brand-logo">BUNGA ABADI — Onlineshop</div>
       <nav class="nav-links">
         <RouterLink to="/" class="nav-item">Landing</RouterLink>
         <RouterLink to="/product" class="nav-item">Product</RouterLink>
@@ -25,7 +25,7 @@
 
     <!-- 1. Hero Section (Gradasi Sunset: Coral to Teal) -->
     <section class="hero-card">
-      <h1 class="hero-title">produk berkualitas dan alami</h1>
+      <h1 class="hero-title">produk berkualitas, alami, dan terpercaya</h1>
       <p class="hero-subtitle">
         Temukan produk terbaik untukmu
       </p>
