@@ -14,7 +14,7 @@
   <div class="landing-wrapper">
     <!-- Navigation Bar -->
     <header class="navbar">
-      <div class="brand-logo">BUNGA ABADI— Onlineshop</div>
+      <div class="brand-logo">BUNGA ga abadi— Onlineshop</div>
       <nav class="nav-links">
         <RouterLink to="/" class="nav-item">Landing</RouterLink>
         <RouterLink to="/product" class="nav-item">Product</RouterLink>
