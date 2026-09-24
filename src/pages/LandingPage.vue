@@ -79,7 +79,7 @@
   max-width: 1100px;
   margin: 0 auto;
   padding: 20px;
-  color: rgb(175, 0, 0);
+  color: rgb(235, 236, 130);
 }
 
 /* Header & Navbar */
@@ -116,7 +116,7 @@
 
 /* 1. HERO SECTION (Gradasi Beda: Sunset Coral ke Emerald Teal) */
 .hero-card {
-  background: linear-gradient(135deg, beige 0%, rgb(219, 38, 38) 40%, rgb(175, 0, 0) 100%);
+  background: linear-gradient(135deg, beige 0%, rgb(218, 179, 39) 40%, rgb(219, 161, 85) 100%);
   border-radius: 20px;
   padding: 70px 30px;
   text-align: center;
@@ -140,7 +140,7 @@
 /* Tombol CTA Form Pil (Border Radius 999px + Shadow) */
 .cta-button {
   display: inline-block;
-  background-color: rgb(175, 0, 0);
+  background-color: rgb(199, 132, 44);
   color: white;
   font-weight: 700;
   padding: 12px 32px;

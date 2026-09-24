@@ -11,7 +11,7 @@ const daftarProduk = [
 ]
 </script>
  
-<template>``
+<template>
   <main>
     <h1>Produk Kami</h1>
     <div class="grid">
