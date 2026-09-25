@@ -37,7 +37,7 @@ const inisial = props.nama
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  background: #f6ca3b;
+  background: #6f4686;
   color: #ffffff;
   display: flex;
   align-items: center;

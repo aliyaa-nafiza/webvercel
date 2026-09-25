@@ -13,15 +13,7 @@
 <template>
   <div class="landing-wrapper">
     <!-- Navigation Bar -->
-    <header class="navbar">
-      <div class="brand-logo">BUNGA ABADI — Onlineshop</div>
-      <nav class="nav-links">
-        <RouterLink to="/" class="nav-item">Landing</RouterLink>
-        <RouterLink to="/product" class="nav-item">Product</RouterLink>
-        <RouterLink to="/about" class="nav-item">About</RouterLink>
-        <RouterLink to="/contact" class="nav-item">Contact</RouterLink>
-      </nav>
-    </header>
+    
 
     <!-- 1. Hero Section (Gradasi Sunset: Coral to Teal) -->
     <section class="hero-card">
@@ -79,7 +71,7 @@
   max-width: 1100px;
   margin: 0 auto;
   padding: 20px;
-  color: rgb(235, 236, 130);
+  color: rgb(204, 153, 58);
 }
 
 /* Header & Navbar */
@@ -116,7 +108,7 @@
 
 /* 1. HERO SECTION (Gradasi Beda: Sunset Coral ke Emerald Teal) */
 .hero-card {
-  background: linear-gradient(135deg, beige 0%, rgb(218, 179, 39) 40%, rgb(219, 161, 85) 100%);
+  background: linear-gradient(135deg, beige 0%, rgb(119, 68, 117) 40%, rgb(219, 161, 85) 100%);
   border-radius: 20px;
   padding: 70px 30px;
   text-align: center;
@@ -140,7 +132,7 @@
 /* Tombol CTA Form Pil (Border Radius 999px + Shadow) */
 .cta-button {
   display: inline-block;
-  background-color: rgb(199, 132, 44);
+  background-color: rgb(172, 115, 162);
   color: white;
   font-weight: 700;
   padding: 12px 32px;
@@ -157,7 +149,7 @@
 .cta-button:hover {
   transform: translateY(-4px);
   box-shadow: 0 8px 22px rgba(0, 0, 0, 0.25);
-  background-color: rgb(201, 32, 32);
+  background-color: rgb(141, 69, 135);
 }
 
 /* 2. FEATURES GRID (Flex Layout + Gap) */
